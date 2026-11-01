@@ -1,0 +1,4 @@
+[run]
+source = pet_walking_service
+omit = */dist-packages/*, */site-packages/*
+
